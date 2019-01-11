@@ -83,7 +83,7 @@ PORT=3000
 Enable and start MongoDB and Rocket.Chat:
 
 ```
-sudo systemctl enable mongod && sudo systemctl start mongod
+sudo systemctl enable mongodb && sudo systemctl start mongodb
 ```
 
 ```
